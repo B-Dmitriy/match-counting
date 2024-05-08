@@ -56,23 +56,23 @@ Linux stepanoff-wpc 4.4.0-17134-Microsoft #48-Microsoft Fri Apr 27 18:06:00 PST 
 
 ```
 stepanoff@stepanoff-wpc:/mnt/c/Users/StepanOFF/Desktop/wildberries-test$ cat urls | go run main.go
-Count for  https://golang.org/ :  9
-Count for  https://golang.org/pkg/compress/ :  6
-Count for  https://golang.org/pkg/compress/gzip/ :  10
-Count for  https://golang.org/doc/ :  67
-Count for  https://golang.org/pkg/crypto/md5/ :  6
-Count for  https://golang.org/pkg/debug/pe/ :  8
-Count for  https://golang.org/pkg/log/syslog/ :  6
-Count for  https://golang.org/pkg/sort/ :  43
-Count for  https://golang.org/pkg/strings/ :  32
-Count for  https://golang.org/pkg/strconv/ :  31
-Count for  https://golang.org/pkg/sync/ :  9
-Count for  https://golang.org/pkg/time/ :  30
-Count for  https://golang.org/pkg/strings/ :  32
-Count for  https://golang.org/pkg/unicode/ :  24
-Count for  https://golang.org/pkg/unsafe/ :  9
-Count for  https://godoc.org/golang.org/x/benchmarks :  7
-Count for  https://godoc.org/golang.org/x/net :  8
-Count for  https://godoc.org/golang.org/x/mobile :  18
-Total:  355
+// Count for https://golang.org/doc/: 116
+// Count for https://golang.org/: 246
+// Count for https://golang.org/pkg/crypto/md5/: 55
+// Count for https://golang.org/pkg/compress/: 42
+// Count for https://golang.org/pkg/compress/gzip/: 71
+// Count for https://golang.org/pkg/debug/pe/: 80
+// Count for https://golang.org/pkg/log/syslog/: 68
+// Count for https://golang.org/pkg/sort/: 146
+// Count for https://golang.org/pkg/strconv/: 147
+// Count for https://golang.org/pkg/strings/: 232
+// Count for https://golang.org/pkg/strings/: 232
+// Count for https://golang.org/pkg/sync/: 104
+// Count for https://golang.org/pkg/unicode/: 113
+// Count for https://golang.org/pkg/time/: 239
+// Count for https://godoc.org/golang.org/x/benchmarks: 47
+// Count for https://godoc.org/golang.org/x/net: 48
+// Count for https://golang.org/pkg/unsafe/: 69
+// Count for https://godoc.org/golang.org/x/mobile: 77
+// Total: 2132
 ```
