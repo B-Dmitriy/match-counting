@@ -49,7 +49,7 @@ https://godoc.org/golang.org/x/mobile
 Моя система для проверки
 
 ```
-Linux stepanoff-wpc 4.4.0-17134-Microsoft #48-Microsoft Fri Apr 27 18:06:00 PST 2018 x86_64 x86_64 x86_64 GNU/Linux
+Linux username 6.5.0-28-generic #29~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Apr  4 14:39:20 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
 Пример запуска
